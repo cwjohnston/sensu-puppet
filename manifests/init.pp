@@ -177,7 +177,7 @@
 #   Default: 0
 #
 # [*redis_sentinels*]
-#   Array. Redis Sentinel configuration and connection information for one or more Sentinels
+#   Array of hashes. Redis Sentinel configuration and connection information for one or more Sentinels
 #   Default: Not configured
 #
 # [*redis_master*]
